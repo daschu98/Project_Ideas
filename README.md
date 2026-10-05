@@ -1,5 +1,5 @@
 # Topics for Bachelor and Master Theses
-Ideas for Bachelor or Master Thesis Topics. As these are only rough ideas, the exact topic can also be discussed and may be adjusted for a smaller or bigger scope. You are also free to suggest your own ideas, especially topics in context to these domains:
+Ideas for Bachelor and Master Thesis topics. The topics are not fixed and can be adapted in focus and scope. Feel free to come up with your own ideas, especially in the areas listed below:
 - Quality evaluation of Machine Learning based speech processing technologies, such as text-to-speech, speaker transformation, codecs, speech enhancement
 - Listening tests with specific user groups
 - Evaluating speech technologies for non-standard speech: accents, dialects, atypical speech
