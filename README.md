@@ -9,6 +9,7 @@ Ideas for Bachelor and Master Thesis topics. The topics are not fixed and can be
 | Title/Topic |  Work Focus        | Scope |  Student |
 |-------------|---------------|--------------|--------------|
 | Intelligibility of Machine Learning Processed Speech for Non-Native Listeners | Subjective Evaluation | Master Thesis | |
+| How do AI-Labels influence the perceived quality of ML-speech? | Subjective Evaluation | Master Thesis | |
 
 
 ## Previous Topics
